@@ -1,0 +1,8 @@
+{
+  "name": "Progress Clock",
+  "description": "Um relógio de progresso para uso em jogos.",
+  "version": "1.0",
+  "author": "Nel",
+  "main": "index.html",
+  "manifest_version": 1
+}
